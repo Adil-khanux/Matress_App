@@ -20,6 +20,11 @@ app_license = "mit"
 # 		"has_permission": "mattress_app.api.permission.has_app_permission"
 # 	}
 # ]
+# In hooks.py
+doctype_js = {
+    "Quotation": "public/js/mattress_name.js"
+}
+
 
 # Includes in <head>
 # ------------------
